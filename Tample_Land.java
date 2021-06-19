@@ -2,7 +2,6 @@ class Tample_Land
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// your code goes here
 		Scanner sc = new Scanner(System.in);
 		int TestCase = sc.nextInt();
 		for(int t=0;t<TestCase;t++)
